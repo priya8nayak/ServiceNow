@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>GitHub</name>
+        <order/>
+        <roles>x_12503_github.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-19 07:14:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be3782294f11030062c0b3728110c7d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GitHub</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GitHub" source="x_12503_github">6e370ee54f11030062c0b3728110c7cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GitHub">6e370ee54f11030062c0b3728110c7cd</sys_scope>
+        <sys_update_name>sys_app_application_be3782294f11030062c0b3728110c7d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-19 07:14:03</sys_updated_on>
+        <title>GitHub</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
