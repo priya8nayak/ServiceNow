@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-19 10:59:49</sys_created_on>
-            <sys_id>4eeaf6e54f91030062c0b3728110c76d</sys_id>
+            <sys_created_on>2017-09-19 13:32:24</sys_created_on>
+            <sys_id>49dd5fe94fd1030062c0b3728110c723</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_12503_github_table" sys_domain="global" view="Default view">93d8ce294f11030062c0b3728110c725</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-19 10:59:49</sys_updated_on>
+            <sys_updated_on>2017-09-19 13:32:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-19 10:59:49</sys_created_on>
-            <sys_id>06eaf6e54f91030062c0b3728110c76e</sys_id>
+            <sys_created_on>2017-09-19 13:32:24</sys_created_on>
+            <sys_id>01dd5fe94fd1030062c0b3728110c724</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_12503_github_table" sys_domain="global" view="Default view">93d8ce294f11030062c0b3728110c725</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-19 10:59:49</sys_updated_on>
+            <sys_updated_on>2017-09-19 13:32:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>short_description</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-19 10:59:49</sys_created_on>
-            <sys_id>86eaf6e54f91030062c0b3728110c76e</sys_id>
+            <sys_created_on>2017-09-19 13:32:24</sys_created_on>
+            <sys_id>81dd5fe94fd1030062c0b3728110c724</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_12503_github_table" sys_domain="global" view="Default view">93d8ce294f11030062c0b3728110c725</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-19 10:59:49</sys_updated_on>
+            <sys_updated_on>2017-09-19 13:32:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,27 @@
             <element>category</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-19 11:27:10</sys_created_on>
-            <sys_id>b2214b2ddbd903003fa952b0cf96199c</sys_id>
+            <sys_created_on>2017-09-19 13:32:24</sys_created_on>
+            <sys_id>05dd5fe94fd1030062c0b3728110c724</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_12503_github_table" sys_domain="global" view="Default view">93d8ce294f11030062c0b3728110c725</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-19 11:27:10</sys_updated_on>
+            <sys_updated_on>2017-09-19 13:32:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>descsc</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-19 13:32:24</sys_created_on>
+            <sys_id>85dd5fe94fd1030062c0b3728110c724</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_12503_github_table" sys_domain="global" view="Default view">93d8ce294f11030062c0b3728110c725</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-19 13:32:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -65,18 +79,20 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-09-19 07:21:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>93d8ce294f11030062c0b3728110c725</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>x_12503_github_table</sys_name>
             <sys_overrides/>
             <sys_package display_value="GitHub" source="x_12503_github">6e370ee54f11030062c0b3728110c7cd</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="GitHub">6e370ee54f11030062c0b3728110c7cd</sys_scope>
             <sys_update_name>sys_ui_section_93d8ce294f11030062c0b3728110c725</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-19 10:59:49</sys_updated_on>
+            <sys_updated_on>2017-09-19 13:32:24</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

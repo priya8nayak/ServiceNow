@@ -45,11 +45,13 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-09-19 11:27:50</sys_created_on>
-            <sys_id>e051cf29dbd903003fa952b0cf96192d</sys_id>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5b6d9fa94fd1030062c0b3728110c7f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>category</sys_name>
             <sys_package display_value="GitHub" source="x_12503_github">6e370ee54f11030062c0b3728110c7cd</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="GitHub">6e370ee54f11030062c0b3728110c7cd</sys_scope>
             <sys_update_name>sys_choice_x_12503_github_table_category</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
