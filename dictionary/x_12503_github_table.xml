@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Github Table" max_length="40" name="x_12503_github_table" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element label="Account" sequence="100" value="account"/>
+                <element label="DFS" sequence="200" value="dfs"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
