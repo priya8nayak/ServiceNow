@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="sys_class_name" table="x_12503_github_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="short_description" table="x_12503_github_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Class</column_label>
+        <column_label>Short Description</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:current.getTableName();</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -23,12 +23,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>sys_class_name</element>
+        <element>short_description</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="">sys_class_name</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>80</max_length>
+        <max_length>40</max_length>
         <name>x_12503_github_table</name>
         <next_element/>
         <primary>false</primary>
@@ -46,18 +46,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-09-19 07:14:05</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>e2ba3aa54f91030062c0b3728110c792</sys_id>
+        <sys_created_on>2017-09-19 10:49:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>eca87aa14f91030062c0b3728110c719</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Short Description</sys_name>
         <sys_package display_value="GitHub" source="x_12503_github">6e370ee54f11030062c0b3728110c7cd</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GitHub">6e370ee54f11030062c0b3728110c7cd</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-09-19 10:59:04</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_12503_github_table_short_description</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-19 10:49:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
